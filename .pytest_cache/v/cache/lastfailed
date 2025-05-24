@@ -1,0 +1,6 @@
+{
+  "test/test_login.py::TestLogin::test_invalid_login": true,
+  "test/test_pim.py::test_add_edit_delete_employee": true,
+  "test/test_login.py::TestLogin::test_valid_login": true,
+  "test/test_pim.py::test_delete_employee": true
+}

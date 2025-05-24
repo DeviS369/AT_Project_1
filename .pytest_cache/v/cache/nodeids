@@ -1,0 +1,10 @@
+[
+  "test/test_login.py::TestLogin::test_invalid_login",
+  "test/test_login.py::TestLogin::test_valid_login",
+  "test/test_login.py::test_invalid_login",
+  "test/test_login.py::test_valid_login",
+  "test/test_pim.py::test_add_edit_delete_employee",
+  "test/test_pim.py::test_add_employee",
+  "test/test_pim.py::test_delete_employee",
+  "test/test_pim.py::test_edit_employee"
+]
