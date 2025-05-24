@@ -29,7 +29,7 @@
 - Search Employee
 - Edit Employee Details
 - Delete Employee
-- Logout## 🚀 How to Run1. Clone this repo:git clone https://github.com/DeviS369/AT_Project_2.git
+- Logout## 🚀 How to Run1. Clone this repo:git clone https://github.com/DeviS369/AT_Project_1.git
 cd AT_Project_2
 Create and activate a virtual environment (optional but recommended):
 python -m venv env
