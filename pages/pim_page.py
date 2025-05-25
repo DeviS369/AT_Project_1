@@ -88,7 +88,6 @@ class PimPage:
         delete_button = self.wait.until(EC.element_to_be_clickable(
             (By.XPATH, "//button[contains(.,'Delete Selected')]")))
         delete_button.click()
-
         confirm_button = self.wait.until(EC.element_to_be_clickable(
             (By.XPATH, "//button[contains(.,'Yes, Delete')]")))
         confirm_button.click()
